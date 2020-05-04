@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+table.invis {
+  border: none;
+
+  table.invis th, table.invis td {
+    border: none;
+  }
+}
+
+.padright {
+  padding-right: 50px;
+}

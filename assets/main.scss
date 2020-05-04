@@ -1,0 +1,31 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+table.invis tr:nth-child(even) {
+  background-color: transparent;
+}
+
+table.invis {
+  border: none;
+  background-color: transparent;
+}
+
+table.invis th {
+  border: none;
+  background-color: transparent;
+}
+
+table.invis td {
+  border: none;
+  background-color: transparent;
+}
+
+img.marginright {
+  margin-right: 50px;
+}
+
+body {
+  background: linear-gradient(to top, rgba(231, 240, 245, 1) 0%, rgba(170, 221, 235, 1) 100%);
+}
