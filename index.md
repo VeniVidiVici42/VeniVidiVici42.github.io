@@ -67,6 +67,10 @@ from total beginners to seasoned grandmasters.
     </tr>
     <tr>
         <td>
+            <img src="/assets/favicons/reddit.ico" alt="reddit.com" width="16px"/>
+            <a href="https://www.reddit.com/user/VeniVidiVici42/">Reddit</a>
+        </td>
+        <td>
             <img src="/assets/favicons/twitch.ico" alt="twitch.com" width="16px"/>
             <a href="https://www.twitch.tv/cryptochess">Twitch</a>
         </td>
