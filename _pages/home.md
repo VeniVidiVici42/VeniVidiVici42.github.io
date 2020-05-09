@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: single
+permalink: /
+hidden: true   
 ---
-
-<img align="left" src="/assets/images/jacketpic.jpg" alt="me" width="360" height="500" class="marginright" />
 
 <center><h1>About me</h1></center>
 
@@ -19,20 +19,19 @@ Outside of work, I am a competitive chess player currently ranked 78th in the co
 I founded the [MIT Chess Club](http://chess.mit.edu/), which now has hundreds of members ranging
 from total beginners to seasoned grandmasters. 
 
-<br><br>
 <center><h1>Me around the internet</h1></center>
 
 <table class="invis">
     <tr>
-        <td width="33%">
+        <td>
             <img src="/assets/favicons/aops.ico" alt="aops.com" width="16px"/>
-            <a href="https://artofproblemsolving.com/community/user/bogtro">Art of Problem Solving</a>
+            <a href="https://artofproblemsolving.com/community/user/bogtro">AoPS</a>
         </td>
-        <td width="33%">
+        <td>
             <img src="/assets/favicons/chesscom.ico" alt="chess.com" width="16px"/>
             <a href="https://www.chess.com/member/cryptochess">Chess.com</a>
         </td>
-        <td width="33%">
+        <td>
             <img src="/assets/favicons/codeforces.ico" alt="codeforces.com" width="16px"/>
             <a href="http://codeforces.com/profile/VeniVidiVici">Codeforces</a>
         </td>

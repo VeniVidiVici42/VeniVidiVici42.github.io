@@ -1,7 +1,11 @@
 ---
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import "{{ site.theme }}";
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
 
 table.invis tr:nth-child(even) {
   background-color: transparent;
@@ -10,6 +14,12 @@ table.invis tr:nth-child(even) {
 table.invis {
   border: none;
   background-color: transparent;
+  width: 100%;
+}
+
+table.invis tbody {
+  width: 100%;
+  display: table;
 }
 
 table.invis th {
@@ -24,8 +34,4 @@ table.invis td {
 
 img.marginright {
   margin-right: 50px;
-}
-
-body {
-  background: linear-gradient(to top, rgba(231, 240, 245, 1) 0%, rgba(170, 221, 235, 1) 100%);
 }

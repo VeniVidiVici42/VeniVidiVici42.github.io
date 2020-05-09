@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Engineering
-permalink: /engineering/
+title: "Work"
+permalink: /work/
+date: 2020-05-08T0:00:00+00:00
 ---
 
 ## Work experience

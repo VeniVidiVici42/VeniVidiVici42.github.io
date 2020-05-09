@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: "/"
+  - title: "Blog"
+    url: "/blog/"
+  - title: "Chess"
+    url: "/chess/"
+  - title: "Math Competitions"
+    url: "/math-competitions/"
+  - title: "Work"
+    url: "/work/"

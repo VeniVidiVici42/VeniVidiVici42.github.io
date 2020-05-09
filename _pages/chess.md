@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Chess
+title: "Chess"
 permalink: /chess/
+date: 2020-05-08T0:00:00+00:00
 ---
 
 I currently have a 2516 [USCF rating](http://www.uschess.org/msa/MbrDtlMain.php?12885132) 
@@ -9,10 +9,6 @@ and a 2400 [FIDE rating](https://ratings.fide.com/profile/2039796), making me th
 rated player in California and 78th in the country. My most recent tournament was the [US Amateur
 Team East (USATE)](http://www.uschess.org/msa/XtblPlr.php?202002171842-001-12885132), 
 where I finished 6-0 playing board 1 for "Stockholm Syndrome". 
-
-# Upcoming events
-
-Due to the COVID-19 pandemic, I have preemptively canceled my participation in upcoming tournaments.
 
 # Notable historical results
 

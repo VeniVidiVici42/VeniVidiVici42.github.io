@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Math competitions
+title: "Math Competitions"
 permalink: /math-competitions/
+date: 2020-05-08T0:00:00+00:00
 ---
 
 ## Organizational work
