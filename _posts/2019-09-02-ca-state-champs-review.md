@@ -1,0 +1,16 @@
+Made a successful mini-return to chess this weekend, becoming California state co-champion (but since I took a bye last night, presumably not winning on tiebreaks) with 4.5/6 (+3 =3). Definitely didn't deserve all these points at all, but I'll take what I can get :)
+
+R1: pretty clean win over a 2200 (USCF). Managed to win pretty quickly as black with a rook sacrifice for mate, which was a nice way to return to chess after a small break.
+
+R2: Ok I very quickly came crashing down to reality; got completely outplayed as white against a 1650 FIDE / 2050 USCF and was on the verge of losing, when I had a flash of inspiration to offer a draw which was inexplicably accepted in a clear pawn up ending. One way to escape!
+
+R3: Honestly I wasn't in the mood to fight much here, which was exacerbated when my 2200 opponent traded off basically every piece he could in 15 moves with white. For some reason he finally deviated from this strategy by electing not to trade a pair of minors that would have made the draw completely dead, which was doubly strange as it was accompanied by a draw offer. Mostly out of bewilderment I figured I'd play a few more moves to see what exactly he was up to, and then somehow it slowly became more and more annoying for him until finally he let me crash through a bit. Gave it back a bit in time pressure, but probably only a computer would've held his side towards the end.
+
+R4: Had to meet people for dinner so half point bye
+
+R5: Ok this game was really bizarre. I decide to play the English because I want to just get a normal position against my ~2320 FIDE opponent, but we end up calculating some slightly complex tactics by move 10. My opponent somehow overlooks probably the easiest of those, and basically just hangs a pawn + positional weaknesses. My technique from here is actually shockingly decent, but then I miss a fairly easy conversion and blunder into a probably holdable ending. Then I randomly hang my 7th-rank pawn (???) and have to play this pawn up knight vs. bishop ending with his king very active. Ok, I play properly and reach a winning ending again. We then trade what apparently constitute blunders according to ~tablebases~ back and forth for a bit, until I make a VERY large blunder and it's easily drawn again. He immediately gives it back and we get to this study-like ending that I thought I got tricked into a draw but apparently there's some tricky way to triangulate and win, then I make a VERY large blunder again and it's back to drawn, but then he gives it right back and has to resign. Neither of us were in time pressure by the way.
+
+R6: I don't really know what to say about this game; I tried to contest Holt's French knowledge based on 5 minutes of prep, which obviously went extremely badly to the point where I was just lost in like 20 moves. But somehow my random all-out attack morphed into an actual attack, and fortunately he blundered his queen getting trapped. Unfortunately his position was so good that even that wasn't clear, and though I agreed to a draw probably a little early I don't think I was realisitically winning that ending.
+
+
+*(Ported from Facebook)*
