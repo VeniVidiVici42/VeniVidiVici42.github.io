@@ -75,7 +75,7 @@ which now has hundreds of members ranging from total beginners to seasoned grand
         </td>
         <td>
             <img src="/assets/favicons/twitter.ico" alt="twitter.com" width="16px"/>
-            <a href="https://twitter.com/IMCryptochess">Twitter</a>
+            <a href="https://twitter.com/alexkatzdev">Twitter</a>
         </td>
     </tr>
 </table>
