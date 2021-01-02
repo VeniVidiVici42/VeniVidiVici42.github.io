@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "California state championship tournament review"
+title: "North American Open tournament review"
 category: chess
 ---
 
