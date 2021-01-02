@@ -7,8 +7,8 @@ date: 2020-05-08T0:00:00+00:00
 ## Work experience
 
 In August 2019, I joined [Robinhood](https://robinhood.com) in a mission to 
-democratize finance for all. I currently work on the Back-Office Catalyzation team, where we
-build libraries, platforms, and services to address cross-cutting back-office concerns. We're hiring,
+democratize finance for all. I currently work on the [Clearing](https://blog.robinhood.com/news/2018/10/9/introducing-clearing-by-robinhood) team, where we
+handle the lifecycle of a trade after it has executed in the market. We're hiring,
  so feel free to reach out to [alexander.katz@robinhood.com](mailto:alexander.katz@robinhood.com)!
 
 In the summer of 2018, I interned at [Airbnb](https://www.airbnb.com/) on the Deploy Infrastructure

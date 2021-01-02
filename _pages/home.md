@@ -15,9 +15,9 @@ promotes math education through competitive events. In collaboration with studen
 nationwide, we provide thousands of students with a year-long circuit culminating in a 
 [national championship](http://www.usmath.org/championship).
 
-Outside of work, I am a competitive chess player currently ranked 78th in the country. In 2015,
-I founded the [MIT Chess Club](http://chess.mit.edu/), which now has hundreds of members ranging
-from total beginners to seasoned grandmasters. 
+Outside of work, I am a competitive chess player holding the International Master (IM) title and
+ranked within the top 100 players nationwide. In 2015, I founded the [MIT Chess Club](http://chess.mit.edu/), 
+which now has hundreds of members ranging from total beginners to seasoned grandmasters. 
 
 <center><h1>Me around the internet</h1></center>
 

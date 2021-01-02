@@ -91,7 +91,7 @@ author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/jacketpic.jpg"
   bio              : "Software engineer at Robinhood, international master of chess, founder of USMCA, and writer of things"
-  location         : "Menlo Park, CA"
+  location         : "Union City, CA"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"

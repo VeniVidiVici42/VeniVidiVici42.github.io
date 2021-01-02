@@ -4,13 +4,13 @@ permalink: /chess/
 date: 2020-05-08T0:00:00+00:00
 ---
 
-I currently have a 2516 [USCF rating](http://www.uschess.org/msa/MbrDtlMain.php?12885132) 
-and a 2400 [FIDE rating](https://ratings.fide.com/profile/2039796), making me the 7th highest 
-rated player in California and 78th in the country. My most recent tournament was the [US Amateur
+I am currently one of ~4000 players worldwide to hold the International Master (IM) title, 
+and rank in the top 100 players nationwide with a 2516 [USCF rating](http://www.uschess.org/msa/MbrDtlMain.php?12885132) 
+and a 2400 [FIDE rating](https://ratings.fide.com/profile/2039796). My most recent tournament was the [US Amateur
 Team East (USATE)](http://www.uschess.org/msa/XtblPlr.php?202002171842-001-12885132), 
 where I finished 6-0 playing board 1 for "Stockholm Syndrome". 
 
-# Notable historical results
+# Historical highlights
 
 In February 2020, I finished 6-0 at the [US Amateur
 Team East (USATE)](http://www.uschess.org/msa/XtblPlr.php?202002171842-001-12885132), 
